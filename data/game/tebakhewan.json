@@ -1,0 +1,62 @@
+[
+    {
+        "index": 0,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419724778482303006/Screenshot_2025-09-23-00-38-49-320_com.discord.png?ex=68e4997c&is=68e347fc&hm=30973acdac3f93b5c04bdb3a06b095bdcee15195b0d95fc3d202cd13512140ba&",
+        "jawaban": "SUKU AYAM",
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419724778792685588/images_83.jpg?ex=68e4997c&is=68e347fc&hm=7eb06fe039fae2a80493af5e88d702aac3446219579a068a4890e4d97918cfb8&"
+    },
+    {
+        "index": 1,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725001896235180/Screenshot_2025-09-23-00-39-46-454_com.discord.png?ex=68e499b1&is=68e34831&hm=72b25e79cb59b9dbcd443ea32cfdf4f55f066a33938cbee1f093ee0c0321cfa8&",
+        "jawaban": "AYAM",
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725002269266062/images_82.jpg?ex=68e499b1&is=68e34831&hm=9836c42754cff85bb02f90396eb1032a6ef94b293198228abfbadea7ccab8f92&"
+    },
+    {
+        "index": 2,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725279521411286/Screenshot_2025-09-23-00-41-05-873_com.discord.png?ex=68e499f3&is=68e34873&hm=030409a8167f2fe4816e0ca028006731abb68df8ac663ccc2e3548241b80f23d&",
+        "jawaban": "KUCING",
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725279923798046/images_80.jpg?ex=68e499f3&is=68e34873&hm=e44f58c480442626928e475b77f59ca3e02fb368bf51d810b3c7ffa0815893e6&"
+    },
+    {
+        "index": 3,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725533989830666/Screenshot_2025-09-23-00-42-02-912_com.discord.png?ex=68e49a30&is=68e348b0&hm=fea575b8aa2d1dabed8c5203af697b9e3abeb28f245c509df400a7bc1d198bfd&",
+        "jawaban": "KUCING",
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725533989830666/Screenshot_2025-09-23-00-42-02-912_com.discord.png?ex=68e49a30&is=68e348b0&hm=fea575b8aa2d1dabed8c5203af697b9e3abeb28f245c509df400a7bc1d198bfd&"
+    },
+    {
+        "index": 4,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725797249384458/Screenshot_2025-09-23-00-43-11-944_com.discord.png?ex=68e49a6f&is=68e348ef&hm=08d36316bb646060d5cbc2b2b0aaf693602b3431302b2fae9dff8bfb5ffb519f&",
+        "jawaban": "KUDA",
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725797752832000/images_78.jpg?ex=68e49a6f&is=68e348ef&hm=70e06416e14f0861ad27b5f5b1960adc159cf70417b641932944a882a81a5b5e&"
+    },
+    {
+        "index": 5,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725995006758912/Screenshot_2025-09-23-00-43-57-040_com.discord.png?ex=68e49a9e&is=68e3491e&hm=2b816e4988aa02c8432b2f39b22091c10a6a0c52b20745d37c0ec120fc3a52a9&",
+        "jawaban": "ANJING",
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725995468128326/images_79.jpg?ex=68e49a9e&is=68e3491e&hm=b8239872d85d5073a562f27f892530e14d7e539abad7d66985d8c702b39e01ef&"
+    },
+    {
+        "index": 6,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419725995468128326/images_79.jpg?ex=68e49a9e&is=68e3491e&hm=b8239872d85d5073a562f27f892530e14d7e539abad7d66985d8c702b39e01ef&",
+        "jawaban": ["DINO", "DINOSAUR", "DINOSAURUS"],
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419726566308577341/images_77.jpg?ex=68e49b26&is=68e349a6&hm=4f65b3b7f0da60c80ca98c73e38a73f8c20eef81f48b8b34e396286d4fc053c7&"
+    },
+    {
+        "index": 7,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419726812581331055/Screenshot_2025-09-23-00-47-07-061_com.discord.png?ex=68e49b61&is=68e349e1&hm=e04a1542f7fb77d71143d0120c8d3ce6fa0c1f2ab10d65ca7f64b8cc389ecb62&",
+        "jawaban": "HAMSTER",
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419726812581331055/Screenshot_2025-09-23-00-47-07-061_com.discord.png?ex=68e49b61&is=68e349e1&hm=e04a1542f7fb77d71143d0120c8d3ce6fa0c1f2ab10d65ca7f64b8cc389ecb62&"
+    },
+    {
+        "index": 8,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419727032710856775/Screenshot_2025-09-23-00-48-05-768_com.discord.png?ex=68e49b95&is=68e34a15&hm=8429b7b97ab8f7f7c1139b11e42a81567e2267c76cfe8ba5a571ae29cff38860&",
+        "jawaban": ["KODOK", "KATAK"],
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419727033226887218/images_75.jpg?ex=68e49b95&is=68e34a15&hm=5244965dc3057c397149b2c33cfc59201bb55ab92aca049392c6c9c98303df7b&"
+    },
+    {
+        "index": 9,
+        "img": "https://cdn.discordapp.com/attachments/1419176047471235153/1419727210386034849/Screenshot_2025-09-23-00-48-46-954_com.discord.png?ex=68e49bc0&is=68e34a40&hm=0aa801ed367193ea16ee8501d085fb8adb8124f6f2e953cae3004cfd29c6dc68&",
+        "jawaban": "AYAM",
+        "img2": "https://cdn.discordapp.com/attachments/1419176047471235153/1419727210755002500/images_72.jpg?ex=68e49bc0&is=68e34a40&hm=12b024ee83896a17a293efd7b29db8402ef807035a2b41881a08333ec0e32098&"
+    }
+]
